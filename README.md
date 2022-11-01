@@ -1,3 +1,3 @@
 # Brain Tumor
-Minor Project dataset repository
--Madhav
+Minor Project dataset repository <br>-Madhav Mukund<br> 
+
